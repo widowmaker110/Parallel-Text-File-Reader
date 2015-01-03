@@ -1,7 +1,7 @@
 Parallel-Text-File-Reader
 =========================
 
-Java program implementing Multithreading on text files to find the largest word more efficiently
+Java program implementing Multithreading on text files to find the top 10 most occuring words in a text file more efficiently
 
 author:  Alexander Miller
 version: 9/8/2014
